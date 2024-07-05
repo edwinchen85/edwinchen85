@@ -3,6 +3,11 @@ Hi! My name is Edwin Chen 👋
 
 🌍  I am a Front-End Developer based in Singapore.
 <br/>
+<br/>
+🧑🏻‍🎨  I craft beautiful and functional user interface.
+<br/>
+<br/>
+✉️   Feel free to email at edwinchen85@gmail.com.
 
 ### Skills
 
